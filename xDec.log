@@ -1,0 +1,4 @@
+#1024 Unknown column 'pass' in 'where clause' in `C:\xampp\htdocs\php\event\core\Database.class.php` at line no 174
+#2 mysqli::close(): Couldn't fetch mysqli in `C:\xampp\htdocs\php\event\core\Database.class.php` at line no 195
+#2 mysqli::close(): Couldn't fetch mysqli in `C:\xampp\htdocs\php\event\core\Database.class.php` at line no 195
+#2 mysqli::close(): Couldn't fetch mysqli in `C:\xampp\htdocs\php\event\core\Database.class.php` at line no 195
